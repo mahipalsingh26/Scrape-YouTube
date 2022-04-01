@@ -27,3 +27,7 @@ logfile_name=track.log
 log_folder=logScrape
 download_limit=5
 ```
+### Run
+```
+python scarpeYouTube.py
+```
