@@ -37,3 +37,4 @@ It will create a folder and start downloading video in background (async task).
 ```
 http://127.0.0.1:8000/download-video?name=Tech Burner
 ```
+Import "youTubeScrape.postman_collection.json" file in postman to find more request options.
