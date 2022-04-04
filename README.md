@@ -1,7 +1,7 @@
 # Scrape-YouTube
 ## Getting Started
 
-Below steps will get you a copy of this reposistory up and running on your local machine testing purposes.
+The below steps will get you a copy of this repository up and running on your local machine for testing purposes.
 
 ### Clone the Repository
 ```
@@ -37,4 +37,4 @@ It will create a folder and start downloading video in background (async task).
 ```
 http://127.0.0.1:8000/download-video?name=Tech Burner
 ```
-Import "youTubeScrape.postman_collection.json" file in postman to find more request options.
+Import the "youTubeScrape.postman_collection.json" file in postman to find more request options.
