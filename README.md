@@ -31,3 +31,9 @@ download_limit=5
 ```
 python scarpeYouTube.py
 ```
+
+### Send Request 
+It will create a folder and start downloading video in background (async task).
+```
+http://127.0.0.1:8000/download-video?name=Tech Burner
+```
