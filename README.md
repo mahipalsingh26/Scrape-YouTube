@@ -16,6 +16,7 @@ pip3.7 install uvicorn
 pip3.7 install youtube-dl
 pip3.7 install yt-dlp
 pip3.7 install youtube-search-python
+pip3.7 install flask
 ```
 
 ### Configure
